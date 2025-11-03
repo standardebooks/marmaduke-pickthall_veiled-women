@@ -16,6 +16,12 @@ section > header [epub|type~="epigraph"]{
 	max-width: 80%;
 	text-align: initial;
 }
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
 /* End epigraphs in section headers */
 
 /* Verse */
