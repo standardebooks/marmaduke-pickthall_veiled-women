@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57297</dc:source>
 		<dc:source>https://archive.org/details/veiledwomen00pickiala</dc:source>
-		<meta property="se:word-count">70477</meta>
+		<meta property="se:word-count">70063</meta>
 		<meta property="se:reading-ease.flesch">73.58</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marmaduke-pickthall_veiled-women</meta>
 		<dc:creator id="author">Marmaduke Pickthall</dc:creator>
