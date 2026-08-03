@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/marmaduke-pickthall/veiled-women</dc:identifier>
 		<dc:date>2025-11-03T17:07:28Z</dc:date>
@@ -40,11 +40,11 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">An English woman joins a harem in Ottoman Egypt.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An English woman joins a harem in Ottoman Egypt.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Mary Smith is an English governess hired by an high-ranking Ottoman administrator in Egypt. Feeling mistreated and ignored by her native Christian society, she decides to convert to Islam and marry her employer’s son, becoming a part of the family’s harem.&lt;/p&gt;
 			&lt;p&gt;The lives of the women in the harem form the central theme of the book. Muslim women are shown not just as submissive to their male counterparts, but as beings with their own opinions and desires, in contrast to other depictions common at the time.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57297</dc:source>
 		<dc:source>https://archive.org/details/veiledwomen00pickiala</dc:source>
