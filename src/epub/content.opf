@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Veiled Women</dc:title>
 		<meta property="file-as" refines="#title">Veiled Women</meta>
-		<dc:subject id="subject-1">British -- Egypt -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Egypt -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Harems -- Fiction</dc:subject>
+		<dc:subject id="subject-1">British--Egypt--Fiction</dc:subject>
+		<dc:subject id="subject-2">Egypt--Fiction</dc:subject>
+		<dc:subject id="subject-3">Harems--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
